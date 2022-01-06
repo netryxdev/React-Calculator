@@ -1,6 +1,6 @@
 # React-Calculator
 
-![alt text](https://imgur.com/KfkwLuT)
+![alt text](https://imgur.com/KfkwLuT.png)
 
 ## My first project learning React.JS
 
